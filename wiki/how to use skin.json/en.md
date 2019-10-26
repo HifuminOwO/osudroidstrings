@@ -16,7 +16,7 @@ As it's name suggests，data will be stored in the .json format, and can be dire
     },
     "Slider" : {
         "sliderFollowComboColor" : true,
-        "sliderBorderColor" : "#FFFFFF",
+        "sliderBorderColor" : "#FFFF00",
         "sliderBodyColor" : "#555555",
         "sliderBodyBaseAlpha" : 0.7,
         "sliderHintEnable": true,
